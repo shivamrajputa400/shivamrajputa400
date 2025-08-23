@@ -52,8 +52,9 @@
 </p>
 
 ---
-![GitHub Snake](https://raw.githubusercontent.com/shivamrajputa400/shivamrajputa400/output/github-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamrajputa400/shivamrajputa400/output/github-snake-dark.svg" alt="GitHub Snake"/>
+</p>
 
 ---
 
