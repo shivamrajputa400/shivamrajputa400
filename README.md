@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm <SHIVAM RAJPUT></h1>
+
 <h3 align="center">🚀 Passionate Developer | 💡 Tech Explorer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
