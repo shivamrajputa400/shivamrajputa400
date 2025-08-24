@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,react,mysql,python,git,linux,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,nodejs,react,mysql,python,git,linux,arduino&theme=dark" />
 </p>
 
 <p align="center">
@@ -46,16 +46,6 @@
 | ⚙️ **System Programming Practice** | Low-level system tools and OS-like utilities | C, Linux, Bash |
 
 ---
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivam-rajput-23a695201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="shivamrajputa400@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/shivamrajputa400" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivamrajputa400/shivamrajputa400/output/github-snake-dark.svg" alt="GitHub Snake"/>
 </p>
@@ -63,3 +53,9 @@
 ---
 
 <p align="center">Thanks for visiting my profile! 😊</p> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-rajput-23a695201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="shivamrajputa400@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shivamrajputa400" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
