@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-444444?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PortSwigger%20(Burp%20Suite)-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PortSwigger%20-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
