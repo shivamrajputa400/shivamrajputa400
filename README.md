@@ -29,18 +29,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/PortSwigger%20-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-444444?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PortSwigger%20-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+   <img src="https://img.shields.io/badge/GemOS-181717?style=for-the-badge&logo=iot&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-444444?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-444444?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
-   <img src="https://img.shields.io/badge/DVWA-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVWA-000000?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+
 
 
 ---
