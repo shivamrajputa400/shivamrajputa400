@@ -54,7 +54,7 @@
 |--------|-------------|------|
 | 🚜 **Smart Irrigation** | Automatic watering using ESP8266, soil sensors, and weather APIs | C++, Blynk, OpenWeather, IoT |
 | 📊 **Algorithum Visualizer ** | Dynamic Algorithm Visualization Framework for Computational Pedagogy| HTML, CSS, MySQL, JS |
-| ⚙️ **System Programming Practice** | Low-level system tools and OS-like utilities | C, Linux, Bash |
+| ⚙️ **System Programming Practice** | Low-level system tools and OS-like utilities | C++, Linux, Bash |
 
 ---
 <p align="center">
