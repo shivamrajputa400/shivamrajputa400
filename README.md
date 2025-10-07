@@ -23,8 +23,9 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,nodejs,react,mysql,python,git,linux,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,arduino,cpp,c,js,react,mysql,python&theme=dark" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
