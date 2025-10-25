@@ -12,16 +12,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **<C++ Tech Stack>**
-- 🌱 I’m currently learning **<C++ 17>**
-- 💬 Ask me about **C++, Python, ESP8266, IoT, System Programming**
-- 📫 Reach me at: **shivamrajputa400@gmail.com**
-
----
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,arduino,cpp,c,js,react,mysql,python&theme=dark" />
 </p>
