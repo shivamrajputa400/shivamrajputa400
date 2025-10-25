@@ -39,15 +39,7 @@
 ---
 
 
-### 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚜 **Smart Irrigation** | Automatic watering using ESP8266, soil sensors, and weather APIs | C++, Blynk, OpenWeather, IoT |
-| 📊 **Algorithum Visualizer ** | Dynamic Algorithm Visualization Framework for Computational Pedagogy| HTML, CSS, MySQL, JS |
-| ⚙️ **System Programming Practice** | Low-level system tools and OS-like utilities | C++, Linux, Bash |
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivamrajputa400/shivamrajputa400/output/github-snake-dark.svg" alt="GitHub Snake"/>
 </p>
