@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,arduino,cpp,c,react,html,css,mysql,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,react,html,css,mysql,python&theme=dark" />
 </p>
 
 
@@ -32,8 +32,19 @@
   <img src="https://img.shields.io/badge/IoT-444444?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/DVWA-000000?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,bash,linux,docker,git" />
+</p>
 
 
+## Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Palo%20Alto-Network%20Security-red?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deloitte-Cyber%20Security-0A66C2?style=for-the-badge&logo=deloitte&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataCom-Cyber%20Security-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infosys-Springboard%20Certification-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
+</p>
 
 ---
 
